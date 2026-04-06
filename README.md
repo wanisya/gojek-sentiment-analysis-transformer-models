@@ -1,4 +1,4 @@
-# 🚀 Indonesian Sentiment Analysis using IndoELECTRA vs IndoBERT
+# 🚀 Gojek Reviews Sentiment Analysis using IndoELECTRA vs IndoBERT
 
 ## 📌 Overview
 
@@ -160,9 +160,10 @@ Backend Development (PHP, JavaScript, MySQL)
 
 ## 📬 Contact
 
-GitHub: https://github.com/wanisya
-Email: wanisyf@gmail.com
-Kaggle: https://www.kaggle.com/wanisyafitri20
+- GitHub: https://github.com/wanisya
+- Email: wanisyf@gmail.com
+- Kaggle: https://www.kaggle.com/wanisyafitri20
+- LinkedIn: https://www.linkedin.com/in/wani-syafitri-3bbb90258/
 
 ---
 
