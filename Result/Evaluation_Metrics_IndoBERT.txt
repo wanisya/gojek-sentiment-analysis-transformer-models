@@ -1,0 +1,35 @@
+
+=== VALIDATION SET ===
+Confusion Matrix:
+ [[177   8  16]
+ [ 16  44  10]
+ [ 20   7  90]]
+Akurasi per kelas (pos, neu, neg): [0.88059701 0.62857143 0.76923077]
+Macro Accuracy: 0.7595
+              precision    recall  f1-score   support
+
+    positive     0.8310    0.8806    0.8551       201
+     neutral     0.7458    0.6286    0.6822        70
+    negative     0.7759    0.7692    0.7725       117
+
+    accuracy                         0.8015       388
+   macro avg     0.7842    0.7595    0.7699       388
+weighted avg     0.7990    0.8015    0.7990       388
+
+
+=== TEST SET ===
+Confusion Matrix:
+ [[81 10 10]
+ [ 5 26  4]
+ [15  1 43]]
+Akurasi per kelas (pos, neu, neg): [0.8019802  0.74285714 0.72881356]
+Macro Accuracy: 0.7579
+              precision    recall  f1-score   support
+
+    positive     0.8020    0.8020    0.8020       101
+     neutral     0.7027    0.7429    0.7222        35
+    negative     0.7544    0.7288    0.7414        59
+
+    accuracy                         0.7692       195
+   macro avg     0.7530    0.7579    0.7552       195
+weighted avg     0.7698    0.7692    0.7693       195
